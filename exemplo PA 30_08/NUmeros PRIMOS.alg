@@ -16,9 +16,9 @@ para contador de 1 ate numero faca
       fimse
 fimpara
 se acumulador = 2 entao
-escreval("O numero", numero,"é PRIMO")
+escreval("O numero", numero,"Ã© PRIMO")
 senao
-escreval("O numero", numero,"NÃO É PRIMO")
+escreval("O numero", numero,"NÃƒO Ã‰ PRIMO")
 fimse
 //escreval("Acumulador =>",acumulador)
 
